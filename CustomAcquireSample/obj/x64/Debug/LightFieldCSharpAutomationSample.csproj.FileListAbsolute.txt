@@ -1,0 +1,17 @@
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\LightFieldCSharpAutomationSample.exe.config
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\LightFieldCSharpAutomationSample.exe
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\LightFieldCSharpAutomationSample.pdb
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\PrincetonInstruments.LightField.AutomationV5.dll
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\PrincetonInstruments.LightFieldAddInSupportServices.dll
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\PrincetonInstruments.LightFieldViewV5.dll
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\bin\x64\Debug\PrincetonInstruments.LightFieldAddInSupportServices.xml
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\MainWindow.baml
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\MainWindow.g.cs
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\App.g.cs
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample_MarkupCompile.cache
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample.g.resources
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample.Properties.Resources.resources
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample.csproj.GenerateResource.Cache
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample.exe
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample.pdb
+C:\ProgramData\Documents\Princeton Instruments\LightField\Add-in and Automation SDK\Samples\CSharp Automation\CustomAcquireSample\obj\x64\Debug\LightFieldCSharpAutomationSample.csprojResolveAssemblyReference.cache
